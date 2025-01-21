@@ -43,6 +43,8 @@
 - **Vector Databases**
 - **Data Visualisation Techniques**
 
+**I am always looking for opportunities to learn and try to master my craft.**
+
 
 ## Please head on over to <ins>repositories<ins/> to check out my projects!
 
