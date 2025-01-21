@@ -1,8 +1,8 @@
 ## Hi there, I'm Shanmukh 👋
 
 👩🏻‍💻 Computer Science Student sharing about my journey and learnings in tech<br/>
-:bar_chart:  Majoring in Data Science and have a particular interest in Data/ML/AI Engineering. 
-👩🏻‍🎓 Studying Computer Scienceat the University of Queensland, Australia<br/>
+:bar_chart:  Majoring in Data Science and have a particular interest in Data/ML/AI Engineering<br/> 
+:mortar_board: Studying Computer Scienceat the University of Queensland, Australia<br/>
 💭 Currently learning about Web Information Systems and Advanced Techniques for High Dimenstional Data. <br/>
 
 # 💻 Tech Stack
