@@ -42,6 +42,7 @@
 - **Database Management Systems**
 - **Vector Databases**
 - **Data Visualisation Techniques**
+- **Proficient in Excel**
 
 **I am always looking for opportunities to learn and aim to master my craft.**
 
