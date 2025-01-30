@@ -1,6 +1,6 @@
 # Hi there, I'm Shanmukh 👋
 
-👩🏻‍💻 Computer Science Student looking to make an impact in various industries and to work on interesting projects<br/>
+👩🏻‍💻 Computer Science Student looking to make an impact in various industries and to work on interesting projects that challenge me and make me learn new things<br/>
 :bar_chart:  Majoring in Data Science and have a particular interest in Data/ML/AI Engineering<br/> 
 :mortar_board: Studying Computer Science at the University of Queensland, Australia<br/>
 💭 Currently learning about Web Information Systems and Advanced Techniques for High Dimenstional Data. <br/>
